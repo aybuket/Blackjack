@@ -1,2 +1,3 @@
 # Blackjack
-Matlab homework
+
+Spring 2015 - Comp110 homework
